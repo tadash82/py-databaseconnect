@@ -1,4 +1,4 @@
-Acesso a Banco de dados SQL
+[Acesso a Banco de dados SQL
 O Python não possui acesso nativo a bancos de dados SQL em sua biblioteca padrão, somente ao Berkley database engine(BDB), mas define uma API padrão que os drivers de acesso a esses bancos de dados devem seguir, assim qualquer que seja o banco de dados os procedimentos são parecidos.
 
 Os quatro principais bancos de dados livres que podem ser acessados do Python são o SQLite, o MySQL, o PostgreSQL e o Interbase/Firebird.
@@ -105,4 +105,4 @@ Interbase/Firebird: Fácil de instalar no Microsoft Windows a partir dos binári
 
 MS-SQL: BD comercial da Microsoft, fácil configuração e tudo na mão através da Interface gráfica. Quanto a performace não tenho uma base de comparação em produção (ainda). Mas ele atende as nossas necessidades ;).
 
-Bancos de Dados Proprietários
+Bancos de Dados Proprietários](https://wiki.python.org.br/BancosDeDadosSql#:~:text=Acesso%20a%20Banco,de%20Dados%20Propriet%C3%A1rios)
